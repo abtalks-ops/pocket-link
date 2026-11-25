@@ -4,3 +4,4 @@ dev-dist
 e2e/screenshots
 *.local
 .DS_Store
+*.tsbuildinfo
